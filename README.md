@@ -1,3 +1,4 @@
+
 # Economic Data Analysis from FRED data
 
 This web application provides the data loaded from FRED website by means of API KEY.
